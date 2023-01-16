@@ -1,0 +1,97 @@
+vid,id,title_fa,code,parent_cat,done
+2,2,تبلت و کتابخوان,tablet-ebook-reader,5966,t
+3,3,لپ تاپ,laptop,5966,t
+4,6,دوربین,camera,5966,t
+5,4,کامپیوتر و تجهیزات جانبی,computer-parts,5966,t
+6,5,ماشین های اداری,office-machines,5966,t
+7,6890,ساعت و مچ بند هوشمند,wearable-gadget,5966,t
+8,6060,لوازم جانبی کالای دیجیتال,accessories-main,5966,t
+11,11052,تجهیزات امنیتی و نظارتی,security-and-surveillance-equipment,5966,t
+12,8450,خودرو، ابزار و تجهیزات صنعتی,vehicles,0,t
+13,8743,تجهیزات صنعتی و انبارداری,industrial-tools,8450,t
+14,6075,باغبانی و کشاورزی,gardening-tools,8450,t
+15,8566,قطعات و تجهیزات خورشیدی,solar-panel-and-accessories,8450,t
+16,10688,وسایل نقلیه و لوازم یدکی,vehicles-spare-parts,8450,t
+17,10480,استخر، سونا و جکوزی,pool-sauna-and-jacuzzi,8450,t
+18,10689,ابزار برقی و غیر برقی,Electric-non-electric-tools,8450,t
+19,10690,یراق آلات، لوازم و مصالح ساختمانی,fittings-construction,8450,t
+20,8749,مد و پوشاک,apparel,0,t
+21,8752,مردانه,mens-apparel,8749,t
+22,8753,زنانه,womens-apparel,8749,t
+23,8754,بچگانه,kids-apparel,8749,t
+24,9531,زنانه و مردانه,uni-clothing,8749,t
+25,8895,کالاهای سوپرمارکتی,food-beverage,0,t
+26,8899,کالاهای اساسی و خوار و بار,groceries,8895,t
+27,9208,لبنیات,dairy,8895,t
+28,9218,مواد پروتئینی و تخم مرغ,protein-foods,8895,t
+29,8915,صبحانه,breakfast,8895,t
+30,8907,نوشیدنی‌های سرد,beverages,8895,t
+31,8896,کنسرو و غذای آماده,ready-made-canned-food,8895,t
+32,8897,خشکبار و شیرینی,dried-fruit-nuts,8895,t
+33,9229,میوه و سبزیجات,fruits-and-vegetables,8895,t
+34,8898,تنقلات,snacks,8895,t
+35,10102,گل طبیعی,natural-flowers,8895,t
+36,10125,فینگر فود و پذیرایی,finger_food,8895,t
+37,10119,مکمل غذایی و دارویی,dietary_and_medicinal_supplements,8895,t
+38,10284,بهداشت شخصی,personal-hygiene,8895,t
+39,10285,بهداشت خانگی,home-hygiene,8895,t
+40,10286,مادر و کودک,baby-and-mother,8895,t
+41,10571,افزودنی ها,condiments,8895,t
+43,10775,شور و ترشیجات,salts-and-pickles,8895,t
+44,10888,نوشیدنی‌های گرم,warm-drinks,8895,t
+45,6741,اسباب بازی، کودک و نوزاد,mother-and-child,0,t
+46,6758,ایمنی و مراقبت,safety-and-care,6741,t
+47,6744,تغذیه و رشد کودک,dining-accessories,6741,t
+48,6742,پستانک و لوازم شیردهی,personal-accessories,6741,t
+49,6760,بهداشت و حمام,health-and-bathroom-tools,6741,t
+50,6784,گردش و سفر,promenade-and-travel-accessories,6741,t
+51,6776,سرگرمی و آموزشی,entertainment-and-games-equipment,6741,t
+52,6797,خواب کودک,baby-bedding,6741,t
+53,6806,شوینده لباس کودک و نوزاد,cloths-cleaner,6741,t
+54,10677,ملزومات اتاق کودک,baby-room-essentials,6741,t
+55,10170,محصولات بومی و محلی,rural-products,0,t
+56,10171,خانه و کاشانه بومی محلی,rural-home,10170,t
+57,10173,پوشیدنی های بومی محلی,Rural-Cloth-And-Apparel,10170,t
+58,10184,بازی و سرگرمی های بومی محلی,game-and-fun,10170,t
+59,10318,خوراکی های بومی محلی,rural-food-and-beverage,10170,t
+60,11003,عطاری,herbal,10170,t
+61,5968,زیبایی و سلامت,personal-appliance,0,t
+62,5700,لوازم آرایشی,beauty,5968,t
+63,5824,لوازم بهداشتی,personal-care,5968,t
+64,6607,لوازم شخصی برقی,electrical-personal-care,5968,t
+65,6162,عطر و ادکلن,perfume-all,5968,t
+66,5702,ابزار سلامت,health-care,5968,t
+67,5967,خانه و آشپزخانه,home-and-kitchen,0,t
+68,6250,شستشو و نظافت,cleaning,5967,t
+69,6263,حمام و سرویس بهداشتی,bath,5967,t
+70,7,صوتی و تصویری,video-audio-entertainment,5967,t
+71,6226,آشپزخانه,home-kitchen-appliances,5967,t
+72,6254,سرو و پذیرایی,serving,5967,t
+73,8428,پت شاپ,pet,5967,t
+75,6249,دکوراتیو,decorative,5967,t
+76,6246,خواب,bedandbath,5967,t
+77,8465,اکسسوری لوازم شخصی,pesonal-appliance-accessories,5967,t
+78,6394,روشنایی و الکتریکی,lighting,5967,t
+86,6153,آلات موسیقی,musicalinstruments,8,t
+87,5905,موسیقی,music-audio-content,8,t
+81,10486,کتاب,book,8,t
+82,5917,مجلات، نقشه و نشانگر کتاب,publication,8,t
+83,5970,لوازم تحریر,stationery,8,t
+84,6451,صنایع دستی,handicraft,8,t
+79,6936,فرش و گلیم,carpet,5967,t
+80,8,کتاب، لوازم تحریر و هنر,book-and-media,0,t
+10,60,کنسول بازی,game-console,5966,t
+1,5966,کالای دیجیتال,electronic-devices,0,t
+9,10128,سرویس‌های اینترنت و سیم‌کارت,internet-services,5966,t
+42,10612,فرآورده‌های منجمد و یخچالی,frozen-food,8895,t
+74,5753,لوازم خانگی برقی,home-appliance,5967,t
+85,6936,فرش و گلیم,carpet,8,t
+88,5900,فیلم,film-video-content,8,t
+89,5981,نرم افزار و بازی,software-games,8,t
+90,5907,محتوای آموزشی,multimedia-training-pack,8,t
+91,5916,مترجم و کتاب صوتی,digital-publication,8,t
+92,9014,محصولات مذهبی,religious-products,8,t
+93,6124,ورزش و سفر,sport-entertainment,0,t
+94,6816,پوشاک ورزشی,sports-wear,6124,t
+95,6089,لوازم ورزشی,sport,6124,t
+96,6020,لوازم سفر و کمپینگ,traveling-equipment,6124,t
